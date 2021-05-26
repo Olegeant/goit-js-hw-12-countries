@@ -1,22 +1,22 @@
 {
-  "name": "oit-js-hw-12-countries",
+  "name": "goit-js-hw-12-countries",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/oit-js-hw-12-countries",
+  "homepage": "https://olegeant.github.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /oit-js-hw-12-countries/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/oit-js-hw-12-countries.git"
+    "url": "git+https://github.com/olegeant/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "Oleg Slyusarov <o.slusarov@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/oit-js-hw-12-countries/issues"
+    "url": "https://github.com/olegeant/goit-js-hw-12-countries/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
