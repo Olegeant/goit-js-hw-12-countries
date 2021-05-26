@@ -1,2 +1,2 @@
-# oit-js-hw-12-countries
+# goit-js-hw-12-countries
 Homework No.13
