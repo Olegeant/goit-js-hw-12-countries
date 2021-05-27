@@ -76,7 +76,7 @@ const renderCountryList = data => {
 };
 
 const onSearch = e => {
-  const searchValue = e.target.value;
+  const searchValue = e.target.value.trim();
 
   if (!searchValue) return;
 
